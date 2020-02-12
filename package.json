@@ -1,0 +1,7 @@
+{
+  "name": "elderbraum/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal prettier config",
+  "main": "prettier.config.js",
+  "license": "MIT"
+}
